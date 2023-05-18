@@ -2,7 +2,7 @@
 
 # Arduino PIR Sensor Traffic Light Simulation
 
-![Mata Kuliah](https://img.shields.io/badge/Mata%20Kuliah-Pemrograman%20Berorientasi%20Objek-grey)
+![Mata Kuliah](https://img.shields.io/badge/Mata%20Kuliah-Pemrograman%20Berorientasi%20Objek-blue)
 ## The Background
 <div align="justify">
 The Arduino PIR traffic light simulation is a project that uses a computer or electronic system to model or mimic how a traffic light system works using a PIR (Passive Infrared Sensor) motion sensor and an Arduino microcontroller.
